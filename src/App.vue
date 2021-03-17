@@ -1,12 +1,6 @@
 <template>
-  <!-- <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div> -->
-  <div class="container">
-    <h1 class="display-1 mt-2 mb-2">QRcode 轉換器</h1>
-  <router-view/>
-  </div>
+  <h1 class="display-1 mt-5 mb-2">QRcode 轉換器</h1>
+  <router-view />
 </template>
 
 <style>
