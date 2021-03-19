@@ -1,6 +1,6 @@
 <template>
   <h1 class="display-1 mt-5 mb-2">QRcode 轉換器</h1>
-  <router-view />
+  <router-view class="mb-5" />
 </template>
 
 <style>
